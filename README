@@ -1,0 +1,11 @@
+Project Name: Image Filler
+
+The purpose of this project is to fill an image in order to make it compatible with OpenGL 1.x. The fact that OpenGL 1.x will not load an image if it's height and width is not to the power of 2 is pretty annoying (and I am too lazy to open my gimp to fix that). I think this was fixed in OpenGL 2.x
+
+The main reason I wrote this piece of code was my Asus eee pc. I installed ubuntu and eclipse on and started working with game development tutorial that uses libGDX (Thanks to Mario Zechner, it is awesome). Sadly my tiny laptop does not have OpenGL 2.x and ended up with an error that OpenGL cannot load my image.
+
+Features to be added: 
+- fill multiple images
+- choose output format
+- add GUI
+- <name yours>
